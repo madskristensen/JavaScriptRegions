@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="74208c70-24ae-4899-ac91-658f11f0e65b" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="74208c70-24ae-4899-ac91-658f11f0e65b" Version="1.1" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>JavaScript Regions</DisplayName>
         <Description xml:space="preserve">Adds support for region comments in JavaScript and TypeScript files</Description>
+        <MoreInfo>https://github.com/madskristensen/JavaScriptRegions</MoreInfo>
         <License>Resources\LICENSE</License>
+        <ReleaseNotes>https://github.com/madskristensen/JavaScriptRegions/blob/master/CHANGELOG.md</ReleaseNotes>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>javascript, typescript, regions, comment</Tags>

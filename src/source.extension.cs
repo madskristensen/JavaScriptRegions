@@ -11,7 +11,7 @@ namespace JavaScriptRegions
         public const string Name = "JavaScript Regions";
         public const string Description = @"Adds support for region comments in JavaScript and TypeScript files";
         public const string Language = "en-US";
-        public const string Version = "1.0";
+        public const string Version = "1.1";
         public const string Author = "Mads Kristensen";
         public const string Tags = "javascript, typescript, regions, comment";
     }
