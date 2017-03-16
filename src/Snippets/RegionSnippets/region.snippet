@@ -1,0 +1,26 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>region</Title>
+        <Shortcut>region</Shortcut>
+        <Author>Mads Kristensen</Author>
+        <Description>Adds a region commment</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+            <SnippetType>SurroundsWith</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Declarations>
+            <Literal>
+                <ID>name</ID>
+                <Default>name</Default>
+                <ToolTip>The name of the region</ToolTip>
+            </Literal>
+        </Declarations>
+        <Code Language="JavaScript">
+            <![CDATA[// #region $name$
+  $selected$$end$
+// #endregion]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

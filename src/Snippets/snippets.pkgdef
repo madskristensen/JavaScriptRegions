@@ -1,0 +1,6 @@
+﻿; VS 2017
+[$RootKey$\Languages\CodeExpansions\TypeScript\Paths]
+"Snippets"="$PackageFolder$\RegionSnippets"
+
+[$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
+"Snippets"="$PackageFolder$\RegionSnippets"
