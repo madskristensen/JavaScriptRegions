@@ -4,6 +4,7 @@
         <Identity Id="74208c70-24ae-4899-ac91-658f11f0e65b" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>JavaScript Regions</DisplayName>
         <Description xml:space="preserve">Adds support for region comments in JavaScript and TypeScript files</Description>
+        <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>javascript, typescript, regions, comment</Tags>

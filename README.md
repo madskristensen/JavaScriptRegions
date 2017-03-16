@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/rfpp2ie9d1e17q3a?svg=true)](https://ci.appveyor.com/project/madskristensen/javascriptregions)
 
 <!-- Update the VS Gallery link after you upload the VSIX-->
-Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/[GuidFromGallery])
+Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptRegions)
 or get the [CI build](http://vsixgallery.com/extension/74208c70-24ae-4899-ac91-658f11f0e65b/).
 
 ---------------------------------------
@@ -36,7 +36,7 @@ This will insert the region and place the cursor in the right location.
 ![Region Snippet](art/region-snippet.png)
 
 ## Contribute
-Check out the [contribution guidelines](CONTRIBUTING.md)
+Check out the [contribution guidelines](.github/CONTRIBUTING.md)
 if you want to contribute to this project.
 
 For cloning and building this project yourself, make sure
