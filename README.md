@@ -1,3 +1,5 @@
+NOTE: as of version 1.17 released September 2017, the core Visual Studio Code supports `#region` folding for JavaScript and TypeScript. See https://code.visualstudio.com/updates/v1_17#_editor and https://stackoverflow.com/a/46597272/4200039
+
 # JavaScript Regions
 
 [![Build status](https://ci.appveyor.com/api/projects/status/rfpp2ie9d1e17q3a?svg=true)](https://ci.appveyor.com/project/madskristensen/javascriptregions)
